@@ -33,3 +33,33 @@ Ideal para:
    ```bash
    git clone https://github.com/seuusuario/calculadora-teste-ab.git
 
+2. Instale os pacotes:
+ pip install notebook ipywidgets pandas
+
+3. Execute com:
+   jupyter notebook
+✅ Exemplo
+Cenário: minha taxa atual de conversão é 10%. Quero testar uma versão que atinja 13%.
+Parâmetros: 5% de significância e 80% de poder.
+
+Resultado:
+
+Tamanho por grupo: 478
+
+Total: 956 participantes
+
+👩‍💻 Autora
+Liliane Sougarc
+📸 Instagram: @lln_automacoes
+
+📄 Licença
+Distribuído sob a licença MIT.
+Use, modifique e compartilhe à vontade.
+
+
+   
+
+
+
+   
+
